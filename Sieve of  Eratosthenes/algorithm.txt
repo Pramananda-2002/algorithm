@@ -1,0 +1,12 @@
+The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million or so.
+
+
+
+Time Complexity: O(N*log(log(N)))
+Auxiliary Space: O(N)
+
+
+
+
+Problem:
+how to calculate its time complexity......
